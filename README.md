@@ -1,8 +1,8 @@
 # RELATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 02/09/2025
-Empresa: Abstergo Industries
-Responsável: Anita Lassala Leme da Silva
+- Data: 02/09/2025
+- Empresa: Abstergo Industries
+- Responsável: Anita Lassala Leme da Silva
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado por **Anita Lassala Leme da Silva**. 
